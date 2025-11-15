@@ -1,2 +1,0 @@
-# LendMarket
-Lend
